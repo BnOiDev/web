@@ -14,7 +14,7 @@ function App() {
 
      <h1 className="text-6xl text-white font-black">
         Seu <span className="font-black text-transparent text-6xl bg-clip-text bg-nlw-gradiente">
-          duo</span> está aqui.
+          duo</span> está aqui!.
      </h1>
 
      <div className="grid grid-cols-6 gap-6 py-16">
